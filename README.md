@@ -10,8 +10,10 @@ Repository ini digunakan untuk dokumentasi pengujian Software Quality pada Siste
 
 ## Tim
 
-Programmer : Nama Anda
-SQ Tester : Nama Anda
+Akhmad Fatikhur Rizky 20231310104
+M. Ihsan Sirojuddin 20231310093
+Rangga Firmansyah 20231310083
+
 
 ## Hasil
 
