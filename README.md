@@ -13,6 +13,7 @@ Repository ini digunakan untuk dokumentasi pengujian Software Quality pada Siste
 Akhmad Fatikhur Rizky 20231310104
 M. Ihsan Sirojuddin 20231310093
 Rangga Firmansyah 20231310083
+Ahmad Jalaludin 20231310090
 
 
 ## Hasil
